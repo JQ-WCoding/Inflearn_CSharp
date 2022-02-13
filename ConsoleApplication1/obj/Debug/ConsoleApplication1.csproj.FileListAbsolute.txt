@@ -1,0 +1,6 @@
+/Users/junq/RiderProjects/Inflearn/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/junq/RiderProjects/Inflearn/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/junq/RiderProjects/Inflearn/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/junq/RiderProjects/Inflearn/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/junq/RiderProjects/Inflearn/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/junq/RiderProjects/Inflearn/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
