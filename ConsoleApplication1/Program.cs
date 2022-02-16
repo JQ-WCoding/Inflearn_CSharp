@@ -97,5 +97,21 @@ namespace ConsoleApplication1
         {
             num += 1;
         }
+
+        // Overloading
+        static int Add(int a, float b)
+        {
+            return a + (int) b;
+        }
+
+        static int Factorial(int num)
+        {
+            if (num == 1)
+            {
+                return num;
+            }
+
+            return Factorial(num - 1) * num;
+        }
     }
 }
