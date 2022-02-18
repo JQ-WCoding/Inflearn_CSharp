@@ -114,4 +114,5 @@ namespace ConsoleApplication1
             return Factorial(num - 1) * num;
         }
     }
+    
 }
