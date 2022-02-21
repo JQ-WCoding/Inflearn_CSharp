@@ -106,7 +106,17 @@ namespace ConsoleApplication1
 
             CreateRandomMonster(out monster);
 
-            Console.WriteLine("전투모드 돌입");
+            Console.WriteLine("[1]전투모드 돌입");
+            Console.WriteLine("[2]마을로 도망");
+
+            string input = Console.ReadLine();
+            if (input == "1")
+            {
+                // fight
+            }else if (input == "2")
+            {
+                // run away
+            }
         }
 
         struct Monster
